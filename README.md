@@ -4,7 +4,7 @@
 
 <body>
     <header>
-        <h1>Welcome to JhanRainald VOreñada's Webpage</h1>
+        <h1>Welcome to JhanRainald V Oreñada's Webpage</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -14,11 +14,11 @@
     <main>
         <section id="home">
             <h2>Home</h2>
-            <p>Welcome to my personal webpage! Here, you'll find information about me and my work.</p>
+            <p>Welcome to my personal/sample webpage!</p>
         </section>
         <section id="about">
             <h2>About Me</h2>
-            <p>My name is JhanRainald VOreñada, and I am passionate about web development and design. This webpage showcases my projects and interests.</p>
+            <p>My name is JhanRainald V Oreñada, and I am from Grade 8 Our Lady of Charity. I made this website for an activity!</p>
         </section>
         <section id="contact">
             <h2>Contact Me</h2>
@@ -30,7 +30,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 JhanRainald VOreñada. All rights reserved.</p>
+        <p>&copy; 2024 JhanRainald V Oreñada. All rights reserved.</p>
     </footer>
 </body>
 
