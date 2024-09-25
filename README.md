@@ -1,1 +1,93 @@
-# index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JhanRainald VOreñada's Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px;
+        }
+        nav {
+            margin: 20px 0;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #4CAF50;
+            margin: 0 15px;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+        nav a:hover {
+            color: #45a049;
+        }
+        main {
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center; 
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #777;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .contact-info a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to JhanRainald VOreñada's Webpage</h1>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>Welcome to my personal webpage! Here, you'll find information about me and my work.</p>
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>My name is JhanRainald VOreñada, and I am passionate about web development and design. This webpage showcases my projects and interests.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>If you would like to reach out, feel free to contact me at: 
+                <span class="contact-info">
+                    <a href="mailto:jhanrainaldd@gmail.com">jhanrainaldd@gmail.com</a>
+                </span>.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 JhanRainald VOreñada. All rights reserved.</p>
+    </footer>
+</body>
+</html>
