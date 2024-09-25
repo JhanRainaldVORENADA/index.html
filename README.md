@@ -1,7 +1,7 @@
 
         
 
-</head>
+
 <body>
     <header>
         <h1>Welcome to JhanRainald VOreñada's Webpage</h1>
@@ -33,4 +33,4 @@
         <p>&copy; 2024 JhanRainald VOreñada. All rights reserved.</p>
     </footer>
 </body>
-</html>
+
