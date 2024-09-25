@@ -4,7 +4,7 @@
 
 <body>
     <header>
-        <h1>Welcome to JhanRainald V Oreñada's Webpage</h1>
+        <h1>Welcome to Jhan Rainald V Oreñada's Webpage</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -18,7 +18,7 @@
         </section>
         <section id="about">
             <h2>About Me</h2>
-            <p>My name is JhanRainald V Oreñada, and I am from Grade 8 Our Lady of Charity. I made this website for an activity!</p>
+            <p>My name is Jhan Rainald V Oreñada, and I am from Grade 8 Our Lady of Charity. I made this website for an activity!</p>
         </section>
         <section id="contact">
             <h2>Contact Me</h2>
